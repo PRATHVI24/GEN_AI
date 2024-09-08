@@ -30,6 +30,7 @@ To use models from HuggingFace that are behind gated access, ensure you have log
 --login(token='YOUR_HF_TOKEN')
 
 ## Output
+![2024-09-08 17_31_02-LLM ipynb - Colab - Brave](https://github.com/user-attachments/assets/1f4e511c-2ba9-4320-8be4-fc77327d50e1)
 
 
 
